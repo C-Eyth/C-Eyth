@@ -1,7 +1,5 @@
 # About Me
 
-Here are some ideas to get you started:
-
 - I’m currently working on developing a summer project.
 - I’m currently learning LaTeX and Python
 - How to reach me: email me at colineyth@gmail.com
